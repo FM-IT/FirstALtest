@@ -1,0 +1,22 @@
+{
+  "id": "c78f4991-5119-44bc-931b-2553df347e28",
+  "name": "FirstALtest",
+  "publisher": "FM IT ApS",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "10.0.0.0",
+  "application": {
+    "version": "10.0.0.0",
+    "locale": "DK"
+  }
+}
